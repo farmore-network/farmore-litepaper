@@ -18,25 +18,7 @@ Register once, pick a handle (e.g. `@nododile`), and see one balance across ever
 
 **FAR** is the network's token. It bonds the solvers that route cross-chain transfers, funds a safety pool, and is earned only through verified, useful activity.
 
----
 
-## Read the litepaper
-
-Each link opens the PDF at the relevant section.
-
-| § | Section | Page |
-|---|---|---:|
-| — | [Cover & abstract](Farmore-Litepaper.pdf#page=1) | 1 |
-| — | [Introduction — how the paper is organised](Farmore-Litepaper.pdf#page=2) | 2 |
-| 1 | [The Problem — fragmentation across chains and wallets](Farmore-Litepaper.pdf#page=2) | 2 |
-| 2 | [The Product — one name, one balance, one account](Farmore-Litepaper.pdf#page=4) | 4 |
-| 3 | [Architecture — a layered system on proven components](Farmore-Litepaper.pdf#page=6) | 6 |
-| 4 | [Security & Recovery](Farmore-Litepaper.pdf#page=11) | 11 |
-| 5 | [The FAR Token — productive model, supply, earning](Farmore-Litepaper.pdf#page=11) | 11 |
-| 6 | [Target Users & Market Entry](Farmore-Litepaper.pdf#page=16) | 16 |
-| 7 | [Roadmap — build sequence](Farmore-Litepaper.pdf#page=17) | 17 |
-| 8 | [Risks & Limitations](Farmore-Litepaper.pdf#page=17) | 17 |
-| — | [Appendix — references](Farmore-Litepaper.pdf#page=19) | 19 |
 
 > 💡 Page-anchor links (`#page=N`) work in most browsers and PDF readers. If your viewer ignores them, just [open the PDF](Farmore-Litepaper.pdf) and scroll to the page in the table above.
 
